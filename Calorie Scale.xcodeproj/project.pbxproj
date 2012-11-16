@@ -18,6 +18,10 @@
 		0F43BDBF16505AD1007805E9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDBE16505AD1007805E9 /* Default-568h@2x.png */; };
 		0F43BDC216505AD1007805E9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDC016505AD1007805E9 /* MainStoryboard.storyboard */; };
 		0F43BDC516505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F43BDC416505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.m */; };
+		0F43BDCC165061A1007805E9 /* logo_calorie_scale.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDCB165061A1007805E9 /* logo_calorie_scale.png */; };
+		0F43BDD016517299007805E9 /* logo_calorie_scale_tip_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDCD16517299007805E9 /* logo_calorie_scale_tip_left.png */; };
+		0F43BDD116517299007805E9 /* logo_calorie_scale_tip_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDCE16517299007805E9 /* logo_calorie_scale_tip_right.png */; };
+		0F43BDD216517299007805E9 /* logo_calorie_scale-balanced.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F43BDCF16517299007805E9 /* logo_calorie_scale-balanced.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +41,10 @@
 		0F43BDC116505AD1007805E9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		0F43BDC316505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = edu_gmu_it315_CalorieScaleViewController.h; sourceTree = "<group>"; };
 		0F43BDC416505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = edu_gmu_it315_CalorieScaleViewController.m; sourceTree = "<group>"; };
+		0F43BDCB165061A1007805E9 /* logo_calorie_scale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_calorie_scale.png; path = "../../../Dropbox/Fall 2012/IT 315 - Mobile Development/Project/logo_calorie_scale.png"; sourceTree = "<group>"; };
+		0F43BDCD16517299007805E9 /* logo_calorie_scale_tip_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_calorie_scale_tip_left.png; path = "../../../Dropbox/Fall 2012/IT 315 - Mobile Development/Project/logo_calorie_scale_tip_left.png"; sourceTree = "<group>"; };
+		0F43BDCE16517299007805E9 /* logo_calorie_scale_tip_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_calorie_scale_tip_right.png; path = "../../../Dropbox/Fall 2012/IT 315 - Mobile Development/Project/logo_calorie_scale_tip_right.png"; sourceTree = "<group>"; };
+		0F43BDCF16517299007805E9 /* logo_calorie_scale-balanced.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo_calorie_scale-balanced.png"; path = "../../../Dropbox/Fall 2012/IT 315 - Mobile Development/Project/logo_calorie_scale-balanced.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,9 +91,13 @@
 		0F43BDAE16505AD1007805E9 /* Calorie Scale */ = {
 			isa = PBXGroup;
 			children = (
+				0F43BDCD16517299007805E9 /* logo_calorie_scale_tip_left.png */,
+				0F43BDCE16517299007805E9 /* logo_calorie_scale_tip_right.png */,
+				0F43BDCF16517299007805E9 /* logo_calorie_scale-balanced.png */,
 				0F43BDB716505AD1007805E9 /* edu_gmu_it315_CalorieScaleAppDelegate.h */,
 				0F43BDB816505AD1007805E9 /* edu_gmu_it315_CalorieScaleAppDelegate.m */,
 				0F43BDC016505AD1007805E9 /* MainStoryboard.storyboard */,
+				0F43BDCB165061A1007805E9 /* logo_calorie_scale.png */,
 				0F43BDC316505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.h */,
 				0F43BDC416505AD1007805E9 /* edu_gmu_it315_CalorieScaleViewController.m */,
 				0F43BDAF16505AD1007805E9 /* Supporting Files */,
@@ -164,6 +176,10 @@
 				0F43BDBD16505AD1007805E9 /* Default@2x.png in Resources */,
 				0F43BDBF16505AD1007805E9 /* Default-568h@2x.png in Resources */,
 				0F43BDC216505AD1007805E9 /* MainStoryboard.storyboard in Resources */,
+				0F43BDCC165061A1007805E9 /* logo_calorie_scale.png in Resources */,
+				0F43BDD016517299007805E9 /* logo_calorie_scale_tip_left.png in Resources */,
+				0F43BDD116517299007805E9 /* logo_calorie_scale_tip_right.png in Resources */,
+				0F43BDD216517299007805E9 /* logo_calorie_scale-balanced.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
